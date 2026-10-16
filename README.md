@@ -89,9 +89,3 @@ rm -rf "$HOME/.codex/pets/longlong"
 - 单帧尺寸：`192 × 208`
 - 布局：8 列 × 9 行
 - 动画状态：idle、running-right、running-left、waving、jumping（已替换为摸头）、failed、waiting、running、review
-
-## 说明
-
-- 本仓库不包含制作时使用的原始参考图。
-- 请勿将本项目描述为 OpenAI 官方角色或官方桌宠。
-- 公开再发布前，请自行确认对参考形象及衍生素材拥有必要权利。
